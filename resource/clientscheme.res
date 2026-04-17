@@ -1438,7 +1438,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "Team Fortress" // tf.ttf
+				"name"  "Counter-Strike" // Cstrike.ttf
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
