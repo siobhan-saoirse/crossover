@@ -105,4 +105,22 @@ particles_manifest
 		"file"		"!particles/summer2025_unusuals.pcf"
 		"file"		"!particles/halloween2025_unusuals.pcf"
 		"file"		"!particles/smissmas2025_unusuals.pcf"
+
+	"file"		"particles/cstrike/achievement.pcf"
+	"file"		"particles/cstrike/blood_impact.pcf"
+	"file"		"particles/cstrike/fire_01.pcf"
+	"file"		"particles/cstrike/burning_fx.pcf"
+	"file"		"particles/cstrike/water_impact.pcf"
+	"file"		"!particles/cstrike/muzzleflashes.pcf"
+	"file"		"particles/cstrike/error.pcf"
+
+	"file"		"particles/hl2/error.pcf"
+	"file"		"particles/hl2/antlion_blood.pcf"
+	"file"		"particles/hl2/blood_impact.pcf"
+	"file"		"particles/hl2/water_impact.pcf"
+	"file"		"particles/hl2/fire_01.pcf"
+	"file"		"particles/hl2/burning_fx.pcf"
+	"file"		"particles/hl2/combineball.pcf"
+	"file"		"particles/hl2/vortigaunt_fx.pcf"
+	"file"		"particles/hl2/rocket_fx.pcf"
 }
