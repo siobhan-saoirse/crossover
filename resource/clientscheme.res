@@ -1434,6 +1434,17 @@ Scheme
 				"custom"	"1"
 			}
 		}
+		HudNumbersCSS
+		{
+			"1"
+			{
+				"name"  "Team Fortress" // Cstrike.ttf
+				"tall"  "28"
+				"weight" "0"
+				"additive" "1"
+				"antialias" "1"
+			}
+		}
 		HudNumbersGlow
 		{
 			"1"
