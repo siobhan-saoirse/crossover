@@ -1438,7 +1438,15 @@ Scheme
 		{
 			"1"
 			{
-				"name"  "Team Fortress" // Cstrike.ttf
+				"name"  "Team Fortress" // tf.ttf
+				"tall"  "28"
+				"weight" "0"
+				"additive" "1"
+				"antialias" "1"
+			}
+			"2"
+			{
+				"name"  "Verdana"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
